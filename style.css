@@ -1,0 +1,28 @@
+/*This CSS document is for LIS467, Lab2 by Bryanne McArdle*/
+
+body {
+  background-color: MediumPurple; /*set webpage color to light purple*/
+  color: WhiteSmoke; /*set all body text to a lighter color for easy reading*/
+}
+
+h1 {
+  text-decoration: underline; /*underline h1*/
+  text-align: center; /*center h1*/
+  color: GoldenRod; /* turn h1 yellowish*/
+}
+
+h2 {
+  color: PaleGoldenRod; /*turn h2 yellowish*/
+}
+
+h3 {
+  color: NavajoWhite; /*turn h3 yellowish*/
+}
+
+a:link {
+  color: PeachPuff; /*color unvisited link*/
+}
+
+a:visited {
+  color: PaleVioletRed; /*color visted link*/
+}
